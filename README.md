@@ -1,8 +1,3 @@
-
-
-<!--
-**Akwatiro/Akwatiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on: Computer Engineering student at the Polytechnic University of Madrid (UPM) where I am developing my knowledge, virtues and skills.<br><br>👯 I’m looking to collaborate on: any project where I am allowed to improve my skills and in this way, in the long term, <br>be able to have the necessary skills to perform the position with greater professionalism and knowledge <br><br>🤝 I'm looking for help with: certified courses to help improve my front-end skills <br><br>🌱 I’m currently learning: I am currently trying to develop and learn the necessary skills to perform the front-end position<br><br>⚡ Fun fact: the semicolon and I sometimes get along badly
 
