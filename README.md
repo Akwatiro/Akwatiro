@@ -18,7 +18,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64946607d99c9d67318db90d?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64946607d99c9d67318db90d?variant=dark)](https://roadmap.sh)
 ---
 [![](https://visitcount.itsvg.in/api?id=akwatiro&icon=2&color=0)](https://visitcount.itsvg.in)
 
