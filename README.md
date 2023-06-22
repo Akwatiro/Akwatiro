@@ -20,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akwatiro&icon=2&color=0)](https://visitcount.itsvg.in)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64946607d99c9d67318db90d?variant=dark)](https://roadmap.sh)
